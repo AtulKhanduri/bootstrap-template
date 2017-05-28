@@ -1,0 +1,28 @@
+﻿body {
+  padding-top: 60px;
+}
+
+.navbar-nav > li > a.profile-img {
+  padding-bottom: 0px;
+}
+
+.container.container-small {
+  margin-right: 12%;
+  margin-left: 12%;
+}
+
+/**********FooterWrap Section**********/
+#footerwrap {
+  width: 100%;
+  background:#262626;
+  padding-top:10px;
+  border-top-style: solid;
+  border-top-width:8px;
+  border-top-color:#1d1d1d;
+  text-align:center;
+}
+
+#footerwrap p {
+  color:white;
+  font-size:12px;
+}
